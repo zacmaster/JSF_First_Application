@@ -8,7 +8,6 @@ import javax.faces.bean.RequestScoped;
 public class HelloWorld {
 	public HelloWorld() {
       System.out.println("HelloWorld started!");
-      System.out.println("!!!!!!!!!!!!!!");
    }
 	
    public String getMessage() {
